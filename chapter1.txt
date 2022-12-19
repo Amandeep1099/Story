@@ -1,0 +1,1 @@
+Hello. My name is Amandeep. We are getting introduction to Git/Github/Version control as well as connections to the CLI, Command Line Interface.
